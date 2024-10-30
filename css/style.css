@@ -1,0 +1,21 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/btn-blue.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+body{
+	font-family: 'Georgia', serif;
+	font-size: 18px;
+}
+
+h1,h2,h3{
+	font-family: 'Brush Script MT', sans-serif;
+	font-weight: lighter;
+	margin: 80px;
+}
+
+a{
+	text-decoration: none;
+	margin: 80px;
+}
+
